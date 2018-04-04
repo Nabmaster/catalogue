@@ -1,0 +1,12 @@
+<article>
+<header>
+    <img class="float-left" src="images/velo.jpg" alt="Velo d'appartement" height="80px">  
+  <h1><a href="index.php?page=catalogue&action=detailarticle&id=2">Velo d'appartement</a></h1>
+  <p>
+    Velo d'appartement pour fair du sport sans quitter votre maison ;-)  </p>
+    <img class="float-left" src="images/tapis.jpg" alt="Tapis de sport" height="80px">  
+  <h1><a href="index.php?page=catalogue&action=detailarticle&id=4">Tapis de sport</a></h1>
+  <p>
+    Tapis de sport decathlon  </p>
+</header>
+</article>

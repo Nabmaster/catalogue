@@ -1,0 +1,17 @@
+<article>
+<header>
+    <img class="float-left" src="images/nvidia.jpg" alt="Nvidia Geforce 920mx" height="160px">    <h1>Nvidia Geforce 920mx</h1>
+  <p>
+    Carte graphique Nvidia pour gamer  </p>
+  <p><strong>Prix TTC : 299€</strong></p>
+  Tags :
+      <span class="badge badge-info">
+      <a href="index.php?page=catalogue&action=tagdetail&id=3">
+        Multimedia      </a>
+    </span>
+      <span class="badge badge-info">
+      <a href="index.php?page=catalogue&action=tagdetail&id=4">
+        Informatique      </a>
+    </span>
+  </header>
+</article>

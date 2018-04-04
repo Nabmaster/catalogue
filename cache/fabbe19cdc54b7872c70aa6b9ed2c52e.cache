@@ -1,0 +1,12 @@
+<article>
+<header>
+<h2><a href="index.php?page=catalogue&action=detail&id=1">Multimedia</a></h2>
+(3)
+<h2><a href="index.php?page=catalogue&action=detail&id=2">Sport</a></h2>
+(2)
+<h2><a href="index.php?page=catalogue&action=detail&id=3">Livre</a></h2>
+()
+<h2><a href="index.php?page=catalogue&action=detail&id=4">Jeux</a></h2>
+()
+</header>
+</article>

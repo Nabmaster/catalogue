@@ -1,0 +1,8 @@
+<article>
+<header>
+    <img class="float-left" src="images/asus.jpg" alt="Asus SonicMaster" height="80px">  
+  <h1><a href="index.php?page=catalogue&action=detailarticle&id=1">Asus SonicMaster</a></h1>
+  <p>
+    Ordinateur de la marque asus  </p>
+</header>
+</article>

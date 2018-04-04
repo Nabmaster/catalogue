@@ -1,0 +1,21 @@
+<article>
+<header>
+    <img class="float-left" src="images/asus.jpg" alt="Asus SonicMaster" height="160px">    <h1>Asus SonicMaster</h1>
+  <p>
+    Ordinateur de la marque asus  </p>
+  <p><strong>Prix TTC : 700€</strong></p>
+  Tags :
+      <span class="badge badge-info">
+      <a href="index.php?page=catalogue&action=tagdetail&id=1">
+        Nouveauté      </a>
+    </span>
+      <span class="badge badge-info">
+      <a href="index.php?page=catalogue&action=tagdetail&id=3">
+        Multimedia      </a>
+    </span>
+      <span class="badge badge-info">
+      <a href="index.php?page=catalogue&action=tagdetail&id=4">
+        Informatique      </a>
+    </span>
+  </header>
+</article>

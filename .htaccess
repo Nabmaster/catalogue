@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteRule ^(magazine|catalogue|contact)$ index.php?page=$1
+RewriteRule ^magazine/([0-9a-z-]+)-([0-9])+$ index.php?page=magazine&action=detail&id=$2

@@ -1,0 +1,13 @@
+<article>
+<header>
+    <img class="float-left" src="images/tapis.jpg" alt="Tapis de sport" height="160px">    <h1>Tapis de sport</h1>
+  <p>
+    Tapis de sport decathlon  </p>
+  <p><strong>Prix TTC : 20€</strong></p>
+  Tags :
+      <span class="badge badge-info">
+      <a href="index.php?page=catalogue&action=tagdetail&id=5">
+        Remise en forme      </a>
+    </span>
+  </header>
+</article>

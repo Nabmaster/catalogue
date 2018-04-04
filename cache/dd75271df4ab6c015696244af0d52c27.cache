@@ -1,0 +1,16 @@
+<article>
+<header>
+    <img class="float-left" src="images/asus.jpg" alt="Asus SonicMaster" height="80px">  
+  <h1><a href="index.php?page=catalogue&action=detailarticle&id=1">Asus SonicMaster</a></h1>
+  <p>
+    Ordinateur de la marque asus  </p>
+    <img class="float-left" src="images/nvidia.jpg" alt="Nvidia Geforce 920mx" height="80px">  
+  <h1><a href="index.php?page=catalogue&action=detailarticle&id=3">Nvidia Geforce 920mx</a></h1>
+  <p>
+    Carte graphique Nvidia pour gamer  </p>
+    <img class="float-left" src="images/souris.jpg" alt="souris ms5" height="80px">  
+  <h1><a href="index.php?page=catalogue&action=detailarticle&id=5">souris ms5</a></h1>
+  <p>
+    souris sans fil pour pc  </p>
+</header>
+</article>

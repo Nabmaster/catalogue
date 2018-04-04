@@ -1,0 +1,17 @@
+<article>
+<header>
+    <img class="float-left" src="images/velo.jpg" alt="Velo d'appartement" height="160px">    <h1>Velo d'appartement</h1>
+  <p>
+    Velo d'appartement pour fair du sport sans quitter votre maison ;-)  </p>
+  <p><strong>Prix TTC : 399€</strong></p>
+  Tags :
+      <span class="badge badge-info">
+      <a href="index.php?page=catalogue&action=tagdetail&id=2">
+        Promo      </a>
+    </span>
+      <span class="badge badge-info">
+      <a href="index.php?page=catalogue&action=tagdetail&id=5">
+        Remise en forme      </a>
+    </span>
+  </header>
+</article>

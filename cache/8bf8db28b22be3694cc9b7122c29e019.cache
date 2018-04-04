@@ -1,0 +1,8 @@
+<article>
+<header>
+    <img class="float-left" src="images/velo.jpg" alt="Velo d'appartement" height="80px">  
+  <h1><a href="index.php?page=catalogue&action=detailarticle&id=2">Velo d'appartement</a></h1>
+  <p>
+    Velo d'appartement pour fair du sport sans quitter votre maison ;-)  </p>
+</header>
+</article>

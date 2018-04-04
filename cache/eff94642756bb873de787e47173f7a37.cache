@@ -1,0 +1,17 @@
+<article>
+<header>
+    <img class="float-left" src="images/souris.jpg" alt="souris ms5" height="160px">    <h1>souris ms5</h1>
+  <p>
+    souris sans fil pour pc  </p>
+  <p><strong>Prix TTC : 15€</strong></p>
+  Tags :
+      <span class="badge badge-info">
+      <a href="index.php?page=catalogue&action=tagdetail&id=3">
+        Multimedia      </a>
+    </span>
+      <span class="badge badge-info">
+      <a href="index.php?page=catalogue&action=tagdetail&id=4">
+        Informatique      </a>
+    </span>
+  </header>
+</article>
